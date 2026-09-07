@@ -1,0 +1,10 @@
+C:\Users\triya\source\repos\PLCController\PLCController\bin\Debug\PLCController.exe.config
+C:\Users\triya\source\repos\PLCController\PLCController\bin\Debug\PLCController.exe
+C:\Users\triya\source\repos\PLCController\PLCController\bin\Debug\PLCController.pdb
+C:\Users\triya\source\repos\PLCController\PLCController\obj\Debug\PLCController.csproj.AssemblyReference.cache
+C:\Users\triya\source\repos\PLCController\PLCController\obj\Debug\PLCController.Form1.resources
+C:\Users\triya\source\repos\PLCController\PLCController\obj\Debug\PLCController.Properties.Resources.resources
+C:\Users\triya\source\repos\PLCController\PLCController\obj\Debug\PLCController.csproj.GenerateResource.cache
+C:\Users\triya\source\repos\PLCController\PLCController\obj\Debug\PLCController.csproj.CoreCompileInputs.cache
+C:\Users\triya\source\repos\PLCController\PLCController\obj\Debug\PLCController.exe
+C:\Users\triya\source\repos\PLCController\PLCController\obj\Debug\PLCController.pdb
